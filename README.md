@@ -1,12 +1,12 @@
 # Hi there, I'm Jacob. 👋
 ## About me
+Hi I'm Jacob from Poland, and I am programming mainly in backend technologies. I really enjoy learning new frameworks and languages e.g. Entity Framework Core, but also I try to connect design and development of application from buisness point of view. Apart from programming, I set up, managing, maintaining databases.
+
 - :computer: I'm curenlty working on something cool.
 - :student: Currently I am learnig Spring .
 - 👀 I’m interested in Computer Science - Databeses and Buisness Application Development.
 - If you would like to see my school projects, you will find them on my [university account](https://github.com/s20540)
-- 📫 If you want to reach me -> send me a message, mail <a href="jakub.podlesny2109@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/> or pin me on github.
-
-<!-- <a href="jakub.podlesny2109@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>  -->
+- 📫 If you want to reach me -> send me a message, mail - jakub.podlesny2109@gmail.com or pin me on github.
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubPodlesnyGitHub&layout=compact" />
 
