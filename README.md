@@ -1,8 +1,8 @@
 # Hi there, I'm Jacob. 👋
 ## About me
-Hi I'm Jacob from Poland, and I am programming mainly in backend technologies. I really enjoy learning new frameworks and languages e.g. Entity Framework Core, but also I try to connect design and development of application from buisness point of view. Apart from programming, I set up, managing, maintaining databases.
+Hi I'm Jacob, and I am programming mainly in backend technologies. I really enjoy learning new frameworks and languages e.g. Entity Framework Core, but also I try to connect design and development of application from buisness point of view. Apart from programming, I set up, managing, maintaining databases.
 
-- :student: Currently I am learnig .NET and MudBlazor .
+- :student: Currently I am learnig GraphQL.
 - 👀 I’m interested in Computer Science - Databeses and Buisness Application Development.
 - If you would like to see my school projects, you will find them on my [university account](https://github.com/s20540)
 - 📫 If you want to reach me -> send me a message, mail - jakub.podlesny2109@gmail.com or pin me on github.
